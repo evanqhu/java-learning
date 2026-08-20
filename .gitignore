@@ -5,4 +5,5 @@ dist/
 .idea/
 .vscode/
 mini-backend/target/
+mini-backend/bin/
 mini-backend/.mvn/apache-maven-*/

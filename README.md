@@ -64,6 +64,13 @@ chmod +x mvnw
 
 学习进度和主题设置保存在浏览器 `localStorage`，不会上传。
 
+## 在线站点
+
+前端学习网站通过 GitHub `main` 分支自动部署到 Cloudflare Pages：
+
+- 生产地址：<https://java.evanqhu.me>
+- Pages 地址：<https://java-learning-git.pages.dev>
+
 ## 技术选择
 
 学习 demo 有意保持单模块、H2、无认证，以降低第一次启动成本。参考项目中的多模块、MyBatis-Plus、Redis、Apollo、Spring Security 等内容只在“公司项目地图”中解释，不作为本地启动前提。
